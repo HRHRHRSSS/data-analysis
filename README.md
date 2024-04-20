@@ -1,0 +1,2 @@
+- 💻 Python Jupyter Notebook
+- 📊 Data Analysis
